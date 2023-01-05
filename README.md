@@ -7,4 +7,5 @@ https://jurem.github.io/SloRaDe/racunalniki/iskra-delta-triglav/
 https://ideltaclub.com/wordpress/?page_id=1880  
 https://www.youtube.com/watch?v=pVR7JK6ffPA  
 https://en.wikipedia.org/wiki/Triglav_(computer)  
-http://matejhorvat.si/sl/slorac/delta/triglav/index.htm
+http://matejhorvat.si/sl/slorac/delta/triglav/index.htm  
+http://www.starringthecomputer.com/computer.html?c=469
